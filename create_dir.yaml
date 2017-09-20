@@ -1,0 +1,7 @@
+---
+- hosts: localhost
+  tasks: 
+  - name: create a directory using file module
+    file: 
+      path: /fooplayfolder
+      state: directory 

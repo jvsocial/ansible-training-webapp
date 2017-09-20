@@ -1,0 +1,5 @@
+---
+- hosts: localhost
+  tasks: 
+  - name: run a command and launch program 
+    command: gedit

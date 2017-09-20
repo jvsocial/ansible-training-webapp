@@ -1,0 +1,5 @@
+---
+- hosts: localhost
+  tasks:
+  - name: Run a command to check hostname
+    command: date

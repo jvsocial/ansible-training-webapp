@@ -1,0 +1,7 @@
+---
+- hosts: localhost
+  tasks: 
+  - name: Task 1 backup playdata folder
+    copy: 
+      src: /playdata
+      dest: /playdata2
