@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-15T14:27:41.039Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="LtU27bQN9HkiikL1zlYj" version="21.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-15T14:37:56.056Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="GTvx8GLfLPJP9UJTZXfx" version="21.6.2" type="github" pages="3">
   <diagram id="tgwQEFAPdQ9myUQafRTk" name="Page-1">
     <mxGraphModel dx="1050" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,12 +34,64 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DXwRu43EECBAl-t9YyR8" name="Page-2">
-    <mxGraphModel dx="1050" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1cLatJWQYrm-7glRraye-1" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1cLatJWQYrm-7glRraye-1" value="&lt;h1&gt;SSh key ge&amp;nbsp;&lt;/h1&gt;&lt;div&gt;a key is generate&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="210" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1cLatJWQYrm-7glRraye-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1cLatJWQYrm-7glRraye-2" target="1cLatJWQYrm-7glRraye-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1cLatJWQYrm-7glRraye-7" value="ssh" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1cLatJWQYrm-7glRraye-6">
+          <mxGeometry x="0.1449" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1cLatJWQYrm-7glRraye-2" value="Ansible Server&amp;nbsp;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1cLatJWQYrm-7glRraye-3" value="Destination server&amp;nbsp;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1cLatJWQYrm-7glRraye-4" value="&lt;h1&gt;keysa are generate&amp;nbsp;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="490" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1cLatJWQYrm-7glRraye-5" value="&lt;h1&gt;copy here&lt;/h1&gt;&lt;div&gt;it willcheck for key&amp;nbsp;&lt;/div&gt;&lt;div&gt;if itnatches it wont ask for password&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="480" width="190" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Ajxxt2puqUvBjr6sOFIE" name="Page-3">
+    <mxGraphModel dx="1050" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3TIyXGqWiL5XL-fdPj0B-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3TIyXGqWiL5XL-fdPj0B-1" target="3TIyXGqWiL5XL-fdPj0B-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TIyXGqWiL5XL-fdPj0B-1" value="Ansible server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3TIyXGqWiL5XL-fdPj0B-2" value="target1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3TIyXGqWiL5XL-fdPj0B-3" value="target1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3TIyXGqWiL5XL-fdPj0B-4" value="target1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3TIyXGqWiL5XL-fdPj0B-5" value="target1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3TIyXGqWiL5XL-fdPj0B-6" value="target1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3TIyXGqWiL5XL-fdPj0B-7" value="target1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="450" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
